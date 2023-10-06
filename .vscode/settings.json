@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/916153af-e4c9-4504-b70a-453bb54993c5/resourceGroups/accountstrategyapp/providers/Microsoft.Web/sites/test-node-cron-function",
+    "appService.deploySubpath": "."
+}
